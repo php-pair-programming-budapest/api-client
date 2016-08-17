@@ -1,0 +1,14 @@
+{
+    "name": "mark/api_client",
+    "authors": [
+        {
+            "name": "Márk Sági-Kazár",
+            "email": "mark.sagikazar@gmail.com"
+        }
+    ],
+    "require": {
+        "php-http/guzzle6-adapter": "^1.1",
+        "php-http/client-common": "^1.2",
+        "php-http/message": "^1.3"
+    }
+}
